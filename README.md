@@ -1,3 +1,9 @@
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+# Clean Architecture con Onion y Hexagonal
+
+Este proyecto está desarrollado siguiendo los principios de **Arquitectura Limpia** utilizando los patrones `Onion` y `Hexagonal` para garantizar un código **limpio**, **mantenible** y **escalable**.
 
 ## 🔎 Descripción de la Arquitectura
 
